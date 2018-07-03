@@ -1,0 +1,244 @@
+BODY#BODYID
+{
+    BACKGROUND-IMAGE: url(.\Images\NCRBlueBackground.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#uno
+{
+    BACKGROUND-IMAGE: url(.\Images\background.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#dos
+{
+    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#tres
+{
+    BACKGROUND-IMAGE: url(.\Images\background2.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#cuatro
+{
+    BACKGROUND-IMAGE: url(.\Images\backround800X600.JPG);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#cinco
+{
+    BACKGROUND-IMAGE: url(.\Images\background4.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#seis
+{
+    BACKGROUND-IMAGE: url(.\Images\background5.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#siete
+{
+    BACKGROUND-IMAGE: url(.\Images\background6.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#ocho
+{
+    BACKGROUND-IMAGE: url(.\Images\background7.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#nueve
+{
+    BACKGROUND-IMAGE: url(.\Images\background8.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#altuno
+{
+    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#altdos
+{
+    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+.p
+{
+    FONT-SIZE: 187%
+}
+.p
+{
+    FONT-WEIGHT: bold
+}
+.p
+{
+    COLOR: black
+}
+.DivClass
+{
+    VISIBILITY: hidden
+}
+.AmountBoxLabel
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-SIZE: 15pt;
+    LEFT: 50px;
+    FLOAT: none;
+    BORDER-LEFT: medium none;
+    WIDTH: 800px;
+    COLOR: red;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana;
+    POSITION: absolute;
+    TOP: 400px;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: left
+}
+.CHQImage2
+{
+    BORDER-RIGHT: thin;
+    BORDER-TOP: thin;
+    MARGIN-TOP: 60px;
+    VISIBILITY: visible;
+    MARGIN-LEFT: 120px;
+    BORDER-LEFT: thin;
+    BORDER-BOTTOM: thin
+}
+.ChequeAmountVal2
+{
+}
+.ChequeAmountLabel2
+{
+}
+.ChequeIndexVal2
+{
+}
+.ChequeIndexLabel2
+{
+}
+.InformationBox1
+{
+    BORDER-RIGHT: navy thin;
+    BORDER-TOP: navy thin;
+    FONT-SIZE: 10pt;
+    OVERFLOW: auto;
+    BORDER-LEFT: navy thin;
+    COLOR: red;
+    BORDER-BOTTOM: navy thin;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: left
+}
+.CHQImage1
+{
+    BORDER-RIGHT: thin;
+    BORDER-TOP: thin;
+    MARGIN-TOP: 60px;
+    VISIBILITY: visible;
+    MARGIN-LEFT: 5px;
+    BORDER-LEFT: thin;
+    BORDER-BOTTOM: thin
+}
+.CHQInfo1
+{
+    BORDER-RIGHT: thin;
+    BORDER-TOP: thin;
+    MARGIN-TOP: 5px;
+    FONT-SIZE: 12pt;
+    VISIBILITY: hidden;
+    MARGIN-LEFT: 5px;
+    OVERFLOW: auto;
+    TEXT-TRANSFORM: capitalize;
+    BORDER-LEFT: thin;
+    COLOR: red;
+    BORDER-BOTTOM: thin;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: transparent
+}
+.CHQInfo2
+{
+    BORDER-RIGHT: thin;
+    BORDER-TOP: thin;
+    MARGIN-TOP: 5px;
+    FONT-SIZE: 12pt;
+    VISIBILITY: hidden;
+    MARGIN-LEFT: 30px;
+    OVERFLOW: auto;
+    BORDER-LEFT: thin;
+    COLOR: red;
+    BORDER-BOTTOM: thin;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: transparent
+}
+.CHQInfo3
+{
+    BORDER-RIGHT: thin;
+    BORDER-TOP: thin;
+    MARGIN-TOP: 20px;
+    FONT-SIZE: 12pt;
+    VISIBILITY: hidden;
+    MARGIN-LEFT: 40px;
+    OVERFLOW: auto;
+    TEXT-TRANSFORM: capitalize;
+    BORDER-LEFT: thin;
+    COLOR: red;
+    BORDER-BOTTOM: thin;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: transparent
+}
+.CHQImage3
+{
+    MARGIN-TOP: 10px;
+    MARGIN-LEFT: 10px
+}
+.Title
+{
+    BORDER-RIGHT: navy thin;
+    BORDER-TOP: navy thin;
+    MARGIN-TOP: 10px;
+    FONT-SIZE: 20pt;
+    VISIBILITY: visible;
+    BORDER-LEFT: navy thin;
+    WIDTH: 600px;
+    COLOR: red;
+    BORDER-BOTTOM: navy thin;
+    FONT-FAMILY: Verdana;
+    POSITION: absolute;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: center
+}
+.FDK8Text
+{
+    FONT-SIZE: 24pt;
+    LEFT: 457px;
+    WIDTH: 300px;
+    COLOR: navy;
+    FONT-FAMILY: Verdana;
+    POSITION: absolute;
+    TOP: 555px;
+    HEIGHT: 40px;
+    TEXT-ALIGN: right
+}
+.FDK8
+{
+    FONT-SIZE: 24pt;
+    LEFT: 750px;
+    WIDTH: 200px;
+    COLOR: navy;
+    FONT-FAMILY: Verdana;
+    POSITION: absolute;
+    TOP: 524px;
+    HEIGHT: 60px;
+    ALIGN: right
+}
+.ErrorBox1
+{
+    BORDER-RIGHT: thin;
+    BORDER-TOP: thin;
+    MARGIN-TOP: 50px;
+    FONT-SIZE: 12pt;
+    VISIBILITY: hidden;
+    MARGIN-LEFT: 20px;
+    OVERFLOW: auto;
+    BORDER-LEFT: thin;
+    COLOR: red;
+    BORDER-BOTTOM: thin;
+    BACKGROUND-COLOR: transparent
+}

@@ -1,0 +1,1150 @@
+BODY#BODYID
+{
+    BACKGROUND-IMAGE: url(.\Images\NCRBlueBackground.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#uno
+{
+    BACKGROUND-IMAGE: url(.\Images\background.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#dos
+{
+    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#tres
+{
+    BACKGROUND-IMAGE: url(.\Images\background2.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#cuatro
+{
+    BACKGROUND-IMAGE: url(.\Images\backround800X600.JPG);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#cinco
+{
+    BACKGROUND-IMAGE: url(.\Images\background4.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#seis
+{
+    BACKGROUND-IMAGE: url(.\Images\background5.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#siete
+{
+    BACKGROUND-IMAGE: url(.\Images\background6.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#ocho
+{
+    BACKGROUND-IMAGE: url(.\Images\background7.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#nueve
+{
+    BACKGROUND-IMAGE: url(.\Images\background8.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#altuno
+{
+    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+BODY#altdos
+{
+    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-REPEAT: no-repeat
+}
+.p
+{
+    FONT-FAMILY: Verdana
+}
+.p
+{
+    FONT-SIZE: 187%
+}
+.p
+{
+    FONT-WEIGHT: bold
+}
+.p
+{
+    COLOR: black
+}
+.ndcDoubleText
+{
+    FONT-FAMILY: Verdana;
+    COLOR: white;
+    FONT-SIZE: 500%
+}
+.ndcLine1Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 50px;
+    LEFT: 0px
+}
+.ndcLine2Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 90px;
+    LEFT: 0px
+}
+.ndcLine3Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 130px;
+    LEFT: 0px
+}
+.ndcLine4Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 170px;
+    LEFT: 0px
+}
+.ndcLine5Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 210px;
+    LEFT: 0px
+}
+.ndcLine6Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 250px;
+    LEFT: 0px
+}
+.ndcLine7Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 290px;
+    LEFT: 0px
+}
+.ndcLine8Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 330px;
+    LEFT: 0px
+}
+.ndcLine9Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 370px;
+    LEFT: 0px
+}
+.ndcLine10Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 410px;
+    LEFT: 0px
+}
+.ndcLine11Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 450px;
+    LEFT: 0px
+}
+.ndcLine12Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 490px;
+    LEFT: 0px
+}
+.ndcLine13Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 530px;
+    LEFT: 0px
+}
+.ndcLine14Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 570px;
+    LEFT: 0px
+}
+.ndcLine1Table
+{
+    FONT-FAMILY: Verdana;
+    COLOR: white;
+    FONT-SIZE: 250%;
+    BORDER-TOP: white 3px solid
+}
+.ndcLine2Table
+{
+    BORDER-LEFT: white 3px solid;
+    FONT-FAMILY: Verdana;
+    COLOR: white;
+    FONT-SIZE: 250%
+}
+.PINEntry
+{
+    BORDER-BOTTOM: white thin solid;
+    POSITION: absolute;
+    BORDER-LEFT: white thin solid;
+    BACKGROUND-COLOR: black;
+    WIDTH: 250px;
+    HEIGHT: 40px;
+    COLOR: white;
+    BORDER-TOP: white thin solid;
+    TOP: 188px;
+    BORDER-RIGHT: white thin solid;
+    LEFT: 275px
+}
+.PINPillbox
+{
+    POSITION: absolute;
+    WIDTH: 176px;
+    HEIGHT: 40px;
+    VISIBILITY: visible;
+    TOP: 188px;
+    LEFT: 275px
+}
+.AmountPillbox
+{
+    POSITION: absolute;
+    WIDTH: 276px;
+    HEIGHT: 40px;
+    VISIBILITY: visible;
+    TOP: 188px;
+    LEFT: 275px
+}
+.PINBox
+{
+    BACKGROUND-IMAGE: none;
+    BORDER-BOTTOM: white thin solid;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: white thin solid;
+    BACKGROUND-COLOR: transparent;
+    TEXT-INDENT: 10px;
+    WIDTH: 111px;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 40px;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 30px;
+    BORDER-TOP: white thin solid;
+    TOP: 445px;
+    FONT-WEIGHT: bold;
+    BORDER-RIGHT: white thin solid;
+    LEFT: 345px
+}
+.Title
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 30pt;
+    TOP: 50px;
+    LEFT: 0pt
+}
+.SubTitle
+{
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 18pt;
+    TOP: 100px;
+    LEFT: 0px
+}
+.FDK1
+{
+    POSITION: absolute;
+    WIDTH: 400px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 113px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 195px;
+    LEFT: 5px
+}
+.FDK1Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 50px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 223px;
+    LEFT: 123px
+}
+.FDK2
+{
+    POSITION: absolute;
+    WIDTH: 400px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 113px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 307px;
+    LEFT: 5px
+}
+.FDK2Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 50px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 338px;
+    LEFT: 123px
+}
+.FDK3
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 400px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 113px;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 414px;
+    BORDER-RIGHT: thin;
+    LEFT: 5px
+}
+.FDK3Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 50px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 445px;
+    LEFT: 123px
+}
+.FDK4
+{
+    POSITION: absolute;
+    WIDTH: 400px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 113px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 524px;
+    LEFT: 5px
+}
+.FDK4Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 50px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 555px;
+    LEFT: 123px
+}
+.FDK5
+{
+    POSITION: absolute;
+    WIDTH: 400px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 113px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 195px;
+    LEFT: 680px;
+    ALIGN: right
+}
+.FDK5Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: right;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 50px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 223px;
+    LEFT: 377px
+}
+.FDK6
+{
+    POSITION: absolute;
+    WIDTH: 400px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 113px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 307px;
+    LEFT: 680px;
+    ALIGN: right
+}
+.FDK6Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: right;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 50px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 338px;
+    LEFT: 377px
+}
+.FDK7
+{
+    POSITION: absolute;
+    WIDTH: 400px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 113px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 414px;
+    LEFT: 680px;
+    ALIGN: right
+}
+.FDK7Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: right;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 50px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 445px;
+    LEFT: 377px
+}
+.FDK8
+{
+    POSITION: absolute;
+    WIDTH: 400px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 113px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 524px;
+    LEFT: 680px;
+    ALIGN: right
+}
+.FDK8Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: right;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 50px;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    TOP: 555px;
+    LEFT: 377px
+}
+.AmountBox
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: white thin solid;
+    POSITION: absolute;
+    TEXT-ALIGN: right;
+    BORDER-LEFT: white thin solid;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 275px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 48px;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 30px;
+    OVERFLOW: auto;
+    BORDER-TOP: white thin solid;
+    TOP: 250px;
+    FONT-WEIGHT: bold;
+    BORDER-RIGHT: white thin solid;
+    LEFT: 313px
+}
+.AmountDisplayBox
+{
+    BORDER-BOTTOM: medium none;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: medium none;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 275px;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 30pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    BORDER-TOP: medium none;
+    TOP: 250px;
+    BORDER-RIGHT: medium none;
+    LEFT: 313px
+}
+.PINEntryBox
+{
+    BORDER-BOTTOM: white thin solid;
+    POSITION: absolute;
+    BORDER-LEFT: white thin solid;
+    BACKGROUND-COLOR: black;
+    WIDTH: 250px;
+    HEIGHT: 32px;
+    COLOR: white;
+    BORDER-TOP: white thin solid;
+    TOP: 188px;
+    BORDER-RIGHT: white thin solid;
+    LEFT: 275px
+}
+.ChqIndexInfo
+{
+    BORDER-BOTTOM: white thin;
+    TEXT-ALIGN: right;
+    BORDER-LEFT: white thin;
+    BACKGROUND-COLOR: transparent;
+    MARGIN-TOP: 32px;
+    FONT-FAMILY: Verdana;
+    COLOR: white;
+    FONT-SIZE: 24pt;
+    OVERFLOW: auto;
+    BORDER-TOP: white thin;
+    BORDER-RIGHT: white thin
+}
+.SCPMLine1Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    LETTER-SPACING: normal;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 10px;
+    LEFT: 0px
+}
+.SCPMLine2Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    WIDTH: 800px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    TOP: 50px;
+    LEFT: 10px
+}
+.SCPMLine3Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 100pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 45pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 50px;
+    BORDER-RIGHT: thin;
+    LEFT: 300px
+}
+.SCPMLine4Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: right;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 50px;
+    BORDER-RIGHT: thin;
+    LEFT: 500px
+}
+.SCPMLine5Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 65pt
+}
+.SCPMLine6Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 90pt;
+    LEFT: 10pt
+}
+.SCPMLine7Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 115pt;
+    LEFT: 10pt
+}
+.SCPMLine8Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 140pt;
+    LEFT: 10pt
+}
+.SCPMLine9Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 165pt;
+    LEFT: 10pt
+}
+.SCPMLine10Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 190pt;
+    LEFT: 10pt
+}
+.SCPMLine11Text
+{
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 215pt;
+    LEFT: 10pt
+}
+.SCPMLine12Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 240pt;
+    LEFT: 135pt
+}
+.SCPMLine13Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 240pt;
+    LEFT: 300pt
+}
+.SCPMLine14Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 215pt;
+    LEFT: 300pt
+}
+.SCPMLine15Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 215pt;
+    LEFT: 320pt
+}
+.SCPMLine16Text
+{
+    Z-INDEX: 0;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    TOP: 215pt;
+    LEFT: 470pt
+}
+.SCPMLine17Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 200pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 50pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 240pt;
+    BORDER-RIGHT: thin;
+    LEFT: 220pt
+}
+.SCPMLine18Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 200pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 50pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 215pt;
+    BORDER-RIGHT: thin;
+    LEFT: 200pt
+}
+.SCPMLine19Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 200pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 50pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 215pt;
+    BORDER-RIGHT: thin;
+    LEFT: 390pt
+}
+.SCPMLine20Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 100px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 80px;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 10pt;
+    BORDER-RIGHT: thin;
+    LEFT: 350pt
+}
+.SCPMLine21Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 10pt;
+    BORDER-RIGHT: thin;
+    LEFT: 400pt
+}
+.SCPMLine22Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 200pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 60pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 10pt;
+    BORDER-RIGHT: thin;
+    LEFT: 400pt
+}
+.SCPMLine23Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 30pt;
+    BORDER-RIGHT: thin;
+    LEFT: 100pt
+}
+.SCPMLine24Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 80px;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 30pt;
+    BORDER-RIGHT: thin;
+    LEFT: 320pt
+}
+.SCPMLine25Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 500pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 400pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 65pt;
+    BORDER-RIGHT: thin;
+    LEFT: 25pt
+}
+.AmountBoxSCPM
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: white thin solid;
+    POSITION: absolute;
+    TEXT-ALIGN: right;
+    BORDER-LEFT: white thin solid;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 300px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 48px;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 30px;
+    OVERFLOW: auto;
+    BORDER-TOP: white thin solid;
+    TOP: 330px;
+    FONT-WEIGHT: bold;
+    BORDER-RIGHT: white thin solid;
+    LEFT: 240px
+}
+.SCPmImage
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 500px;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 200px;
+    VISIBILITY: inherit;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 100px;
+    BORDER-RIGHT: thin;
+    LEFT: 100pt
+}
+.SCPMLine26Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 500pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 500pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 150pt;
+    BORDER-RIGHT: thin;
+    LEFT: 50pt
+}
+.SCPMLine27Text
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 250pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    HEIGHT: 50pt;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 20pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 190pt;
+    BORDER-RIGHT: thin;
+    LEFT: 200pt
+}
+.SCPMCodeline
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    WIDTH: 600pt;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-SIZE: 12pt;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 225pt;
+    BORDER-RIGHT: thin;
+    LEFT: 10pt
+}
+.SCPmImage2
+{
+    Z-INDEX: 0;
+    BORDER-BOTTOM: thin;
+    POSITION: absolute;
+    TEXT-ALIGN: center;
+    BORDER-LEFT: thin;
+    BACKGROUND-COLOR: transparent;
+    FONT-FAMILY: Verdana;
+    FLOAT: none;
+    VISIBILITY: visible;
+    OVERFLOW: auto;
+    BORDER-TOP: thin;
+    TOP: 100pt;
+    BORDER-RIGHT: thin;
+    LEFT: 150pt
+}
