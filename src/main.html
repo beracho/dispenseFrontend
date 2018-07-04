@@ -1,7 +1,83 @@
 <html>
-  <FRAMESET ROWS="110px,*,110px" border=0>
+
+<head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+<script type="text/javascript" charset="UTF-8">
+  function createframe() {
+    let page = parseURLParams(window.location.href) !== undefined ? parseURLParams(window.location.href).page[0] : '010'
+    const routes = {
+      '010': './pages/010_pantalla_espera/body010.html',
+      '011': './pages/011_ingrese_su_clave/body011.html',
+      '018': './pages/018_seleccione_servicio/body018.html',
+      '036': './pages/036_ingrese_monto/body036.html',
+      '042': './pages/042_retire_efectivo/body042.html',
+      '124': './pages/124_hasta_luego/body124.html',
+      '168': './pages/168_retiro/body168.html',
+      '174': './pages/174_tipo_cuenta/body174.html',
+      '185': './pages/185_espere/body185.html',
+      '208': './pages/208_seleccione_monto/body208.html',
+      '793': './pages/793_recomendaciones/body793.html',
+      '800': './pages/800_inicializando_chip/body800.html',
+      '815': './pages/815_completando_inicializacion/body815.html'
+    }
+    var ahead = document.body;
+    var mainfs = document.createElement('FRAMESET');
+    mainfs.setAttribute("ROWS", "110px,*,110px");
+    mainfs.setAttribute("border", 0);
+    mainfs.setAttribute("id", "mfs");
+    ahead.appendChild(mainfs);
+    for (var i = 0; i < 3; i++) {
+      var ifrm = document.createElement("FRAME");
+      switch (i) {
+        case 0:
+          ifrm.setAttribute("src", "./components/top.html");
+          break;
+        case 1:
+          if(routes[page] !== undefined) {
+            ifrm.setAttribute("src", routes[page]);
+          } else {
+            ifrm.setAttribute("src", routes['010']);
+          }
+          break;
+        case 2:
+          ifrm.setAttribute("src", "./components/bottom.htm");
+          break;
+        default:
+          break;
+      }
+      document.getElementById('mfs').appendChild(ifrm);
+    }
+  }
+  function parseURLParams(url) {
+    var queryStart = url.indexOf("?") + 1,
+        queryEnd   = url.indexOf("#") + 1 || url.length + 1,
+        query = url.slice(queryStart, queryEnd - 1),
+        pairs = query.replace(/\+/g, " ").split("&"),
+        parms = {}, i, n, v, nv;
+
+    if (query === url || query === "") return;
+
+    for (i = 0; i < pairs.length; i++) {
+        nv = pairs[i].split("=", 2);
+        n = decodeURIComponent(nv[0]);
+        v = decodeURIComponent(nv[1]);
+
+        if (!parms.hasOwnProperty(n)) parms[n] = [];
+        parms[n].push(nv.length === 2 ? v : null);
+    }
+    return parms;
+  }
+  window.addEventListener("load", createframe, false);
+</script>
+</head>
+
+<body>
+
+</body>
+<!-- <FRAMESET ROWS="110px,*,110px" border=0>
   <FRAME SRC="./components/top.html" NAME="topFrame" frameborder=0 framespacing=0>
   <FRAME SRC="./pages/124_hasta_luego/124Body.htm" NAME="bodyFrame" frameborder=0 framespacing=0 noresize/>
   <FRAME SRC="components/bottom.htm" NAME="bottomFrame">
-  </FRAMESET>
+  </FRAMESET> -->
+
 </html>
