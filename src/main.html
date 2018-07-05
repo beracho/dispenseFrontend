@@ -22,7 +22,12 @@
     }
     var ahead = document.body;
     var mainfs = document.createElement('FRAMESET');
-    mainfs.setAttribute("ROWS", "110px,*,110px");
+    var bottomFrame = (page !== '010' && page !== '018' && page !== '174' && routes[page] !== undefined);
+    if (bottomFrame) {
+      mainfs.setAttribute("ROWS", "110px,*,110px");
+    } else {
+      mainfs.setAttribute("ROWS", "110px,*");
+    }
     mainfs.setAttribute("border", 0);
     mainfs.setAttribute("id", "mfs");
     ahead.appendChild(mainfs);
@@ -30,7 +35,9 @@
       var ifrm = document.createElement("FRAME");
       switch (i) {
         case 0:
-          ifrm.setAttribute("src", "./components/top.html");
+          if(page !== '010' && routes[page] !== undefined) {
+            ifrm.setAttribute("src", "./components/top.html");
+          }
           break;
         case 1:
           if(routes[page] !== undefined) {
@@ -40,7 +47,9 @@
           }
           break;
         case 2:
-          ifrm.setAttribute("src", "./components/bottom.htm");
+          if(bottomFrame) {
+            ifrm.setAttribute("src", "./components/bottom.htm");
+          }
           break;
         default:
           break;
