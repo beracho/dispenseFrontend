@@ -1,38 +1,43 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
+
 <head>
-<META NAME="GENERATOR" Content="Make HTML">
-<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
-<link REL="StyleSheet" HREF=".\style\style.css" TYPE="text/css" MEDIA="screen,print">
-<TITLE>Screen 13</TITLE>
-<SCRIPT src="../../includes.js">
-</SCRIPT>
-<SCRIPT LANGUAGE="vbscript">
-'=====================
-Sub KeyEchoed(data)
-'=====================
-   
-    TextBox.value = data & TextBox.value
-end sub
-</SCRIPT>
+    <META NAME="GENERATOR" Content="Make HTML">
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <link rel="stylesheet" type="text/css" href="../../../style/bodyStyle.css" media="screen" />
+    <TITLE>Screen 13</TITLE>
+    <SCRIPT src="../../includes.js">
+
+    </SCRIPT>
+    <SCRIPT LANGUAGE="vbscript">
+        '=====================
+        Sub KeyEchoed(data)
+        '=====================
+
+        TextBox.value = data & TextBox.value
+        end sub
+
+    </SCRIPT>
 </head>
-<body scroll="no" background=".\Images\background.png">
-<FORM NAME="form1">
-<input Name="UCDITEXT" type="hidden"></input>
-</form>
-<td style="width: 50%; border=1px">
-<div style="text-align: center">
-<font font="" color="navy" size="10">Ingrese su Clave</font><br>
-<br>
-<p><INPUT  id="TextBox" name="PinBox" class="PinBox" style=""></P>
-<br>
-<br>
-<font font="" color="navy" size="10">Para su seguridad</font><br>
-<font font="" color="navy" size="10">No permita que</font><br>
-<font font="" color="navy" size="10">nadie observe su</font><br>
-<font font="" color="navy" size="10">clave, aun cuando</font><br>
-<font font="" color="navy" size="10">pretenda ayudarlo</font><br>
-</div>
-</td>
+
+<body scroll="no">
+    <FORM NAME="form1">
+        <input Name="UCDITEXT" type="hidden"></input>
+    </form>
+    <td style="width: 50%; border=1px;">
+        <div class="center">
+            <br>
+            <font class="primaryFont">Ingrese su Clave</font><br>
+            <br>
+            <INPUT id="TextBox" name="PinBox" class="PinBox">
+            <br>
+            <font class="primaryFont">Para su seguridad</font><br>
+            <font class="primaryFont">No permita que</font><br>
+            <font class="primaryFont">nadie observe su</font><br>
+            <font class="primaryFont">clave, aun cuando</font><br>
+            <font class="primaryFont">pretenda ayudarlo</font><br>
+        </div>
+    </td>
 </body>
+
 </html>

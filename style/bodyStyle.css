@@ -1,0 +1,58 @@
+/* Colores parametrizados de la aplicación */
+:root{
+  --main-color: navy;
+}
+/* Centra los objetos a partir de divs: allspace, middle y inner */
+.allspace {
+  text-align: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.middle {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  display: table;
+}
+.inner {
+  display: table-cell;
+  vertical-align: middle;
+}
+/* Centrea horizontalmente los elementos del div */
+.center {
+  text-align: center;
+}
+/* Estilos de campo de inbox */
+.PinBox {
+    /* BACKGROUND-IMAGE: none; */
+    /* BORDER-BOTTOM: white thin solid; */
+    /* POSITION: absolute; */
+    /* TEXT-ALIGN: left; */
+    /* BORDER-LEFT: white thin solid; */
+    /* BACKGROUND-COLOR: transparent; */
+    /* TEXT-INDENT: 10px; */
+    WIDTH: 111px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    /* BACKGROUND-REPEAT: repeat; */
+    /* FONT-FAMILY: Verdana; */
+    /* FLOAT: none; */
+    /* HEIGHT: 40px; */
+    /* VISIBILITY: visible; */
+    /* COLOR: white; */
+    /* FONT-SIZE: 30px; */
+    /* BORDER-TOP: white thin solid; */
+    /* TOP: 445px; */
+    /* FONT-WEIGHT: bold; */
+    /* BORDER-RIGHT: white thin solid; */
+    /* LEFT: 345px */
+}
+/* Fuente de texto de mensaje */
+.primaryFont {
+  color: var(--main-color);
+  font-size: 48px;
+  margin-bottom: -1em;
+}
