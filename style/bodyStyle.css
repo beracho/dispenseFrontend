@@ -1,6 +1,7 @@
 /* Colores parametrizados de la aplicación */
 :root{
   --main-color: navy;
+  --alert-color: red;
 }
 /* Centra los objetos a partir de divs: allspace, middle y inner */
 .allspace {
@@ -51,10 +52,20 @@
     /* LEFT: 345px */
 }
 /* Fuente de texto de mensaje */
-.primaryFont {
+.titleFont {
   color: var(--main-color);
   font-size: 48px;
-  margin-bottom: -1em;
+  margin-bottom: 1em;
+}
+.primaryFont {
+  color: var(--main-color);
+  font-size: 30px;
+  margin-bottom: 1em;
+}
+.secondaryFont {
+  color: var(--alert-color);
+  font-size: 30px;
+  margin-bottom: 1em;
 }
 /* Estilos de body */
 .mainBody {
