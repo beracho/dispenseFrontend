@@ -1,61 +1,61 @@
 BODY#BODYID
 {
-    BACKGROUND-IMAGE: url(.\Images\NCRBlueBackground.jpg);
+    BACKGROUND-IMAGE: url(.\images\NCRBlueBackground.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#uno
 {
-    BACKGROUND-IMAGE: url(.\Images\background.jpg);
+    BACKGROUND-IMAGE: url(.\images\background.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#dos
 {
-    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-IMAGE: url(.\images\background1.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#tres
 {
-    BACKGROUND-IMAGE: url(.\Images\background2.jpg);
+    BACKGROUND-IMAGE: url(.\images\background2.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#cuatro
 {
-    BACKGROUND-IMAGE: url(.\Images\backround800X600.JPG);
+    BACKGROUND-IMAGE: url(.\images\backround800X600.JPG);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#cinco
 {
-    BACKGROUND-IMAGE: url(.\Images\background4.jpg);
+    BACKGROUND-IMAGE: url(.\images\background4.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#seis
 {
-    BACKGROUND-IMAGE: url(.\Images\background5.jpg);
+    BACKGROUND-IMAGE: url(.\images\background5.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#siete
 {
-    BACKGROUND-IMAGE: url(.\Images\background6.jpg);
+    BACKGROUND-IMAGE: url(.\images\background6.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#ocho
 {
-    BACKGROUND-IMAGE: url(.\Images\background7.jpg);
+    BACKGROUND-IMAGE: url(.\images\background7.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#nueve
 {
-    BACKGROUND-IMAGE: url(.\Images\background8.jpg);
+    BACKGROUND-IMAGE: url(.\images\background8.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#altuno
 {
-    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-IMAGE: url(.\images\background1.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 BODY#altdos
 {
-    BACKGROUND-IMAGE: url(.\Images\background1.jpg);
+    BACKGROUND-IMAGE: url(.\images\background1.jpg);
     BACKGROUND-REPEAT: no-repeat
 }
 .p
