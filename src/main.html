@@ -18,16 +18,28 @@
       '208': './pages/208_seleccione_monto/body208.html',
       '793': './pages/793_recomendaciones/body793.html',
       '800': './pages/800_inicializando_chip/body800.html',
-      '815': './pages/815_completando_inicializacion/body815.html'
+      '815': './pages/815_completando_inicializacion/body815.html',
+      'c02': './pages/c02_fuera_de_servicio/bodyc02.html',
+      'c03': './pages/c03_supervisor_mode/bodyc03.html',
+      'sto': './pages/sto_screen_timeout/bodysto.html'
     }
     var ahead = document.body;
     var mainfs = document.createElement('FRAMESET');
-    var bottomFrame = (page !== '010' && page !== '018' && page !== '174' && routes[page] !== undefined);
+    var bottomFrame = (page !== '010' && page !== '018' && page !== '174' && page !== 'c02' && page !== 'c03' && page !== 'sto' && routes[page] !== undefined);
+    var upperFrame = (page !== '010' && page !== 'c02' && page !== 'c03' && page !== 'sto' && routes[page] !== undefined);
+    let frameSettings = "";
     if (bottomFrame) {
-      mainfs.setAttribute("ROWS", "110px,*,110px");
+      frameSettings += "110px,";
     } else {
-      mainfs.setAttribute("ROWS", "110px,*");
+      frameSettings += "0px,";
     }
+    frameSettings += "*";
+    if (upperFrame) {
+      frameSettings += ",110px";
+    } else {
+      frameSettings += ",0px";
+    }
+    mainfs.setAttribute("ROWS", frameSettings);
     mainfs.setAttribute("border", 0);
     mainfs.setAttribute("id", "mfs");
     ahead.appendChild(mainfs);
@@ -35,7 +47,7 @@
       var ifrm = document.createElement("FRAME");
       switch (i) {
         case 0:
-          if(page !== '010' && routes[page] !== undefined) {
+          if(upperFrame) {
             ifrm.setAttribute("src", "./components/top.html");
           }
           break;
